@@ -1,5 +1,10 @@
 body {
+<<<<<<< HEAD
 	background-color: rgb(113, 80, 44);
     display: inline;
+=======
+	background-color: rgb(216, 168, 115);
+    display: flex;
+>>>>>>> 0559bb9ecf6ad8b0944d8c0390a02d2737afdc28
 }
 
